@@ -1,9 +1,4 @@
 /*
-Student Name: Meliksah Turker
-Student Number: 2019700120
-Project Number: 3
-Compile Status: [SUCCESS]
-Running Status: [SUCCESS]
 Notes: I implemented a recursive Hash function where I re-hashed using recursion according to type of the passenger.
 Instead of using the vector given in the header, I preferred using array of Classes for my own convenience, which was initally declared as Struct
 but I changed it to Class in order to be able to write copy constructor because I wanted DEEP COPY.
